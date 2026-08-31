@@ -1,0 +1,189 @@
+{
+  "organizacao": "Ambientare GeoTech",
+  "equipe": [
+    {
+      "arquivo": "alexandre-reis.jpg",
+      "nome": "Alexandre Reis",
+      "cargo": "Especialista GIS",
+      "formacao": "Mestre em Geociências Aplicadas; Doutorando em Geografia"
+    },
+    {
+      "arquivo": "andre-oliveira.jpg",
+      "nome": "André Oliveira",
+      "cargo": "Desenvolvedor",
+      "formacao": "Engenheiro Ambiental"
+    },
+    {
+      "arquivo": "barbara-praxedes.png",
+      "nome": "Barbara Praxedes",
+      "cargo": "Analista de Geoprocessamento",
+      "formacao": "Geógrafa; Especialista em Gestão Ambiental e Inteligência Territorial"
+    },
+    {
+      "arquivo": "carlos-eduardo-santos.png",
+      "nome": "Carlos Eduardo dos Reis Santos",
+      "cargo": "Especialista GIS",
+      "formacao": "Geólogo"
+    },
+    {
+      "arquivo": "catarina-jacomini.jpg",
+      "nome": "Catarina Jacomini",
+      "cargo": "Analista de Geoprocessamento",
+      "formacao": "Engenheira Florestal"
+    },
+    {
+      "arquivo": "felipe-bution.png",
+      "nome": "Felipe Bution",
+      "cargo": "Gerente Comercial",
+      "formacao": "Especialista em Geoprocessamento em Análise Ambiental"
+    },
+    {
+      "arquivo": "gabriel-oliveira.jpg",
+      "nome": "Gabriel Oliveira",
+      "cargo": "Especialista GIS",
+      "formacao": "Geógrafo"
+    },
+    {
+      "arquivo": "gabriela-jacobsem.jpg",
+      "nome": "Gabriela Jacobsem",
+      "cargo": "Analista de Geoprocessamento",
+      "formacao": "Pós-graduanda em Geotecnologias e Desenvolvimento SIG"
+    },
+    {
+      "arquivo": "gustavo-puga-lemes.jpg",
+      "nome": "Gustavo Puga Lemes",
+      "cargo": "Analista de Geoprocessamento",
+      "formacao": "Engenheiro Florestal"
+    },
+    {
+      "arquivo": "joao-ricardo-eller.jpg",
+      "nome": "João Ricardo Eller",
+      "cargo": "Especialista GIS",
+      "formacao": "Geógrafo"
+    },
+    {
+      "arquivo": "joyce-ribeiro.jpg",
+      "nome": "Joyce Ribeiro",
+      "cargo": "Analista de Geoprocessamento",
+      "formacao": "Geofísica"
+    },
+    {
+      "arquivo": "kamylla-alves.jpg",
+      "nome": "Kamylla Alves",
+      "cargo": "Coordenadora de Projetos",
+      "formacao": ""
+    },
+    {
+      "arquivo": "lorena-reis.jpg",
+      "nome": "Lorena Reis",
+      "cargo": "Analista de Geoprocessamento",
+      "formacao": "Engenheira Florestal"
+    },
+    {
+      "arquivo": "lucas-torres-dos-anjos.jpg",
+      "nome": "Lucas Torres dos Anjos",
+      "cargo": "Analista em Geoprocessamento (Python)",
+      "formacao": ""
+    },
+    {
+      "arquivo": "marcos-vilela.jpg",
+      "nome": "Marcos Vilela",
+      "cargo": "Diretor",
+      "formacao": "Geógrafo; Especialista em Geoprocessamento; Mestre em Engenharia Civil"
+    },
+    {
+      "arquivo": "mariana-lage.jpg",
+      "nome": "Mariana Lage",
+      "cargo": "Tech Leader de Cartografia",
+      "formacao": "Geógrafa; Doutora em Ciência Ambiental"
+    },
+    {
+      "arquivo": "mario-cogo.jpg",
+      "nome": "Mario Cogo",
+      "cargo": "Especialista em Geoprocessamento",
+      "formacao": "Geógrafo"
+    },
+    {
+      "arquivo": "micael-nadas.jpg",
+      "nome": "Micael Nadas",
+      "cargo": "Analista de Soluções",
+      "formacao": "Geógrafo"
+    },
+    {
+      "arquivo": "paulo-godoy.png",
+      "nome": "Paulo Godoy",
+      "cargo": "Especialista GIS",
+      "formacao": "Geógrafo"
+    },
+    {
+      "arquivo": "pedro-baldi.jpg",
+      "nome": "Pedro Baldi",
+      "cargo": "Técnico em Geoprocessamento",
+      "formacao": "Graduando em Geografia"
+    },
+    {
+      "arquivo": "pedro-campos.jpg",
+      "nome": "Pedro Campos",
+      "cargo": "Coordenador de Projetos",
+      "formacao": "Geógrafo; Mestre em Análise e Modelagem de Sistemas Ambientais; Doutor em Geografia Física"
+    },
+    {
+      "arquivo": "pedro-martins.jpg",
+      "nome": "Pedro Martins",
+      "cargo": "Analista de Geoprocessamento",
+      "formacao": "Gestor Ambiental; Mestre em Ciências Ambientais"
+    },
+    {
+      "arquivo": "pedro-murilo.jpg",
+      "nome": "Pedro Murilo",
+      "cargo": "Estagiário",
+      "formacao": "Graduando em Geografia"
+    },
+    {
+      "arquivo": "pedro-silva.jpg",
+      "nome": "Pedro Silva",
+      "cargo": "Engenheiro SIG",
+      "formacao": "Geólogo"
+    },
+    {
+      "arquivo": "ricardo-ikeda.jpg",
+      "nome": "Ricardo Ikeda",
+      "cargo": "Técnico de Geoprocessamento",
+      "formacao": "Administrador de Empresas; Pós-graduado em Geoprocessamento e Gestão Ambiental"
+    },
+    {
+      "arquivo": "sara-pittigliani.jpg",
+      "nome": "Sara Pittigliani",
+      "cargo": "Analista de Geoprocessamento",
+      "formacao": "Geógrafa"
+    },
+    {
+      "arquivo": "thayna-guimaraes.jpg",
+      "nome": "Thayná Guimarães",
+      "cargo": "Coordenadora de Geoprocessamento",
+      "formacao": "Geóloga"
+    },
+    {
+      "arquivo": "valdeci-junior.jpg",
+      "nome": "Valdeci Junior",
+      "cargo": "Analista de Geoprocessamento",
+      "formacao": "Geógrafo"
+    },
+    {
+      "arquivo": "vitoria-serra-bernardes.jpg",
+      "nome": "Vitoria Serra Bernardes",
+      "cargo": "Analista GIS",
+      "formacao": "Engenheira Florestal; Pós-graduada em Geoprocessamento"
+    }
+  ],
+  "midia": [
+    {
+      "arquivo": "equipe-completa.jpg",
+      "descricao": "Foto da equipe completa"
+    },
+    {
+      "arquivo": "video-institucional.mp4",
+      "descricao": "Vídeo institucional"
+    }
+  ]
+}
